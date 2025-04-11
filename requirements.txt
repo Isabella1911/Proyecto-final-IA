@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+tavily-python
+python-dotenv
+wordcloud
+matplotlib
+Pillow
