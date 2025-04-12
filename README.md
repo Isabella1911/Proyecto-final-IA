@@ -1,6 +1,7 @@
 # 🔍 Asistente de Investigación Digital
 
-##Participantes
+# 🌟 Participantes
+
 -Anthony Lou 23410
 -Isabella Obando 23074
 
