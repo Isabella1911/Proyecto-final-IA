@@ -2,8 +2,8 @@
 
 # 🌟 Participantes
 
--Anthony Lou 23410
--Isabella Obando 23074
+- Anthony Lou 23410
+- Isabella Obando 23074
 
 ## 🌟 Descripción
 
